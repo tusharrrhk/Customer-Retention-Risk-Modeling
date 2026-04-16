@@ -2,7 +2,6 @@
 
 This project aims to identify customers at risk of churning from Lloyds Banking Group by engineering a unified RFM behavioral dataset and developing a machine learning classification pipeline capable of flagging at-risk customers before attrition occurs.
 
-![Logo] (https://www.reinsurancene.ws/wp-content/uploads/2025/06/lloyds-bank-768x480.jpg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
