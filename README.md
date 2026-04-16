@@ -1,4 +1,4 @@
-# Customer Retention Risk Modeling — Lloyds Banking Group
+# Customer Retention Risk Modeling 
 
 This project aims to identify customers at risk of churning from Lloyds Banking Group by engineering a unified RFM behavioral dataset and developing a machine learning classification pipeline capable of flagging at-risk customers before attrition occurs.
 
